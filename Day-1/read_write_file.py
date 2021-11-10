@@ -19,3 +19,4 @@ with open(fname, "w") as f_object:
 # Here is another method to read the file
 with open(fname, "r") as f_object:
     print(f_object.read()) 
+# You can study many things about file system from python library which is on the python.org
